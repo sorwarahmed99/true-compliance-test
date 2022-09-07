@@ -3,7 +3,7 @@
 
 ### 1. Using Laravel, MySQL and the enclosed data create an API that serves data to the following endpoints:
 
-* GET /property                       - Returns properties 
+* GET /property                       - Returns properties «
 * GET /property/{id}                  - Returns a property «
 * POST /property                      - Creates a new property «
 * PATCH /property/{id}                - Updates a property «
