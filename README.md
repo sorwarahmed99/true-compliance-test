@@ -1,7 +1,7 @@
 #True Compliance Test
 --------------------
 
-#### 1. Using Laravel, MySQL and the enclosed data create an API that serves data to the following endpoints:
+### 1. Using Laravel, MySQL and the enclosed data create an API that serves data to the following endpoints:
 
 * GET /property                       - Returns properties 
 * GET /property/{id}                  - Returns a property «
@@ -22,7 +22,7 @@
 * POST /certificate/{id}/note         - Creates a note for a certificate «
 
 
-## 2. Write a MySQL raw query & eloquent query to get properties which has more than 5 certificates «
+### 2. Write a MySQL raw query & eloquent query to get properties which has more than 5 certificates «
 
 * 2.1 Write a MySQL raw query to get properties which has more than 5 certificates «
 
